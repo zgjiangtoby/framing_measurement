@@ -1,6 +1,6 @@
-# Framing measurement
+# From Task Wording to Corpus Inference: Diagnosing LLM Frame Measurements
 
-Companion code for *From Task Wording to Corpus Inference: Diagnosing LLM Frame Measurements*, manuscript version 11 October 2026 (eight-page main text). Run the commands from this directory.
+Code for *From Task Wording to Corpus Inference: Diagnosing LLM Frame Measurements*.
 
 Finite-corpus frame contrasts and label-budget estimators, including the task-word × primary-criterion comparison. The comparison covers four prompt conditions and two checkpoints.
 
