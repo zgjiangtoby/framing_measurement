@@ -6,7 +6,7 @@ Finite-corpus frame contrasts and label-budget estimators, including the task-wo
 
 ## Environment
 
-Run the commands below in Bash. Use Python 3.11 and a CUDA GPU with enough memory for FP32 inference; the 8B runs used GPUs reporting 49,140 MiB. Keep the batch settings below when comparing the reported results.
+Run the commands below in Bash. Use Python 3.11 and a CUDA GPU with enough memory for FP32 inference; Keep the batch settings below when comparing the reported results.
 
 ```bash
 python -m venv .venv
